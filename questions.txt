@@ -1,0 +1,9 @@
+1. Explain how to build stateful class components.
+
+2. Describe the different phases of the component lifecycle.
+
+3. Demonstrate an understanding of class component lifecycle methods.
+
+4. Define stateful logic.
+
+5. Describe how to test a React component with React Testing Library.
