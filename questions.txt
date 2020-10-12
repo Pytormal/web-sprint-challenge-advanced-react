@@ -1,9 +1,25 @@
 1. Explain how to build stateful class components.
 
+        class components that use State to create versatile and reuable functions
+
 2. Describe the different phases of the component lifecycle.
+
+        mounting phase is a component that is being built from ground up.
+
+        updating phase is the action of updating the component with new information and changes.
+
+        un-mounting phase is the action of disconnecting the component to clean anything up.
 
 3. Demonstrate an understanding of class component lifecycle methods.
 
+        i would create a component to use alongside/ with an app.
+        if the component need to update new changes through hard coding or when a user inputs new code from the ui, the component is updating the changes.
+        once the user or app has no need of the component. the component weill un-mount and clean up what is needs to clean up after its self
+
 4. Define stateful logic.
 
+        Stateful logic is a logic that is built into a component.
+
 5. Describe how to test a React component with React Testing Library.
+
+        there is a lot to describe about how to test with React Teting Library. essentially you tell the test what you are looking for and if it is true or false your test will pass.
